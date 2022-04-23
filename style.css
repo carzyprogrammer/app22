@@ -67,9 +67,9 @@ body{
     background-image: url(img1.jpg);
     background-size: 100% 100%;
     box-shadow: 1px 2px 30px rgb(104, 179, 209);
-    animation: slider1 20s infinite linear;
+    animation: slider2 20s infinite linear;
 }
-@keyframes slider1{
+@keyframes slider2{
     15%{ background-image: url(img2.jpg); }
     35%{background-image: url(img3.jpg); }
     55%{background-image: url(img4.jpg);}
